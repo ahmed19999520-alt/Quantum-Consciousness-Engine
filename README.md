@@ -492,7 +492,7 @@ Typical performance metrics on 8-qubit system:
 
 ```bibtex
 @software{quantum_consciousness_2026,
-  title={Quantum Consciousness Engine: Hybrid Quantum-Classical Framework},
+  title={Quantum Consciousness Engine: Hybrid Quantum-Classical Computing},
   author={Professor Ahmed Ali and Veronica X Pro Research Group},
   year={2026},
   url={https://github.com/ahmed19999520-alt/Quantum-Consciousness-Engine}
