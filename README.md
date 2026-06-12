@@ -1,7 +1,7 @@
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12%2B-orange)](https://tensorflow.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)](https://pytorch.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 # Quantum Consciousness Engine
 
 Advanced quantum-classical hybrid framework for consciousness simulation and neural processing.
