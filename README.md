@@ -1,7 +1,3 @@
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12%2B-orange)](https://tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)](https://pytorch.org)
-
 # Quantum Consciousness Engine
 
 Advanced quantum-classical hybrid framework for consciousness simulation and neural processing.
@@ -492,7 +488,7 @@ Typical performance metrics on 8-qubit system:
 
 ```bibtex
 @software{quantum_consciousness_2026,
-  title={Quantum Consciousness Engine: Hybrid Quantum-Classical Computing},
+  title={Quantum Consciousness Engine: Hybrid Quantum-Classical Framework},
   author={Professor Ahmed Ali and Veronica X Pro Research Group},
   year={2026},
   url={https://github.com/ahmed19999520-alt/Quantum-Consciousness-Engine}
